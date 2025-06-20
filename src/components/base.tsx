@@ -34,9 +34,9 @@ export const BaseHtml = ({
               hover:text-accent-500
             `}
           >
-            ConvertX{" "}
+            14 & 46{" "}
           </a>
-          <span safe>v{version || ""}</span>
+        
         </div>
       </footer>
     </body>
